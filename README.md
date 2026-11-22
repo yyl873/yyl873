@@ -40,8 +40,8 @@ CI 全绿（3.10 / 3.12 / 3.13），数值能复算项目里的真实结论（`w
 
 <table>
 <tr><td>实验设计与评测</td><td>★★★</td><td>仿真与物理</td><td>★★★</td><td>数据工程</td><td>★★★</td></tr>
-<tr><td>ROS2 工程</td><td>★★☆</td><td>IL / ACT</td><td>★★☆</td><td>RL（SAC 残差）</td><td>★☆☆</td></tr>
-<tr><td>VLA / 语言条件</td><td>★☆☆</td><td>部署加速</td><td>☆☆☆</td><td></td><td></td></tr>
+<tr><td>ROS2 工程</td><td>★★☆</td><td>IL / ACT</td><td>★★☆</td><td>RL（SAC 残差）</td><td>★★☆</td></tr>
+<tr><td>VLA / 语言条件</td><td>★★☆</td><td>部署加速</td><td>★☆☆</td><td></td><td></td></tr>
 </table>
 
 
