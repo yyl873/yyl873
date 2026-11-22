@@ -44,9 +44,5 @@ CI 全绿（3.10 / 3.12 / 3.13），数值能复算项目里的真实结论（`w
 <tr><td>VLA / 语言条件</td><td>★☆☆</td><td>部署加速</td><td>☆☆☆</td><td></td><td></td></tr>
 </table>
 
-## 📫 联系
-
-- 邮箱：<在此填写>
-- 简历：<在此填写 PDF 链接>
 
 <sub>两个仓库都是可克隆可跑：主仓 `make check` / 主仓 `make tables` 能复算 README 里每一个数字；kit 仓 CI 每次推送自动跑测试。</sub>
